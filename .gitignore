@@ -1,0 +1,7 @@
+TestResults/
+.vs/
+*.dll
+Tests/bin/
+Tests/Obj/
+My Task/obj/
+My Task/bin/
